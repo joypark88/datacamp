@@ -1,36 +1,32 @@
-"Id","country","continent"
-"1","Belgium","Europe"
-"2","Brazil","South America"
-"3","Chile","South America"
-"4","Ecuador","South America"
-"5","Egypt","Africa"
-"6","France","Europe"
-"7","Germany","Europe"
-"8","Ghana","Africa"
-"9","India","Asia"
-"10","Indonesia","Asia"
-"11","Iran","Asia"
-"12","Iraq","Asia"
-"13","Ireland","Europe"
-"14","Israel","Asia"
-"15","Italy","Europe"
-"16","Japan","Asia"
-"17","Korea, South","Asia"
-"18","New Zealand","Oceania"
-"19","South Africa","Africa"
-"20","US","North America"
-"21","Afghanistan","Asia"
-"22","Argentina","South America"
-"23","Brazil","South America"
-"24","Cambodia","Asia"
-"25","Chile","South America"
-"26","Ethiopia","Africa"
-"27","Finland","Europe"
-"28","France","Europe"
-"29","Greece","Europe"
-"30","India","Asia"
-"31","Portugal","Europe"
-"32","Russia","Europe"
-"33","Singapore","Asia"
-"34","South Africa","Africa"
-"35","Vietnam","Asia"
+Id,country,continent,population
+1,Belgium,Europe,11467362
+2,Brazil,South America,211349952
+3,Chile,South America,19107216
+4,Ecuador,South America,17245100
+5,Egypt,Africa,100407540
+6,France,Europe,65712057
+7,Germany,Europe,82379121
+8,Ghana,Africa,30280811
+9,India,Asia,1360657785
+10,Indonesia,Asia,267700000
+11,Iran,Asia,82877128
+12,Iraq,Asia,39127900
+13,Ireland,Europe,358780
+14,Israel,Asia,9033730
+15,Italy,Europe,59575231
+16,Japan,Asia,125960000
+17,"Korea, South",Asia,51780579
+18,New Zealand,Oceania,4966430
+19,South Africa,Africa,58125658
+20,US,North America,329688671
+21,Afghanistan,Asia,31575018
+22,Argentina,South America,45661935
+23,Cambodia,Asia,16289270
+24,Ethiopia,Africa,109200000
+25,Finland,Europe,5518393
+26,France,Europe,65712057
+27,Greece,Europe,10741165
+28,Portugal,Europe,10291027
+29,Russia,Europe,146748600
+30,Singapore,Asia,5638700
+31,Vietnam,Asia,96208984
